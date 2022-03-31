@@ -1,0 +1,896 @@
+Title,bibtex,idx
+A BIM-enabled information infrastructure for building energy Fault Detection and Diagnostics,"@article{dong2014bim,
+ abstract = {Although energy-efficient building technologies are emerging, a key challenge is how to effectively maintain building energy performance over the evolving lifecycle of the building. Field experience shows that energy savings of 5–30% are typically achievable simply by applying energy Fault Detection and Diagnostics (FDD) and correcting faults diagnosed in buildings. Model-based FDD in buildings is a challenging task, not only because the task itself is difficult, but also because the workflow and information exchange behind the task is},
+ author = {Dong, Bing and O'Neill, Zheng and Li, Zhengwei},
+ journal = {Automation in Construction},
+ pages = {197--211},
+ pub_year = {2014},
+ publisher = {Elsevier},
+ title = {A BIM-enabled information infrastructure for building energy Fault Detection and Diagnostics},
+ venue = {Automation in Construction},
+ volume = {44}
+}
+
+",dong2014bim
+A Data Analytics-Based Energy Information System (EIS) Tool to Perform Meter-Level Anomaly Detection and Diagnosis in Buildings,"@article{chiosa2021data,
+ abstract = {Recently, the spread of smart metering infrastructures has enabled the easier collection of building-related data. It has been proven that a proper analysis of such data can bring significant benefits for the characterization of building performance and spotting valuable saving opportunities. More and more researchers worldwide are focused on the development of more robust frameworks of analysis capable of extracting from meter-level data useful information to enhance the process of energy management in buildings, for},
+ author = {Chiosa, Roberto and Piscitelli, Marco Savino and Capozzoli, Alfonso},
+ journal = {Energies},
+ number = {1},
+ pages = {237},
+ pub_year = {2021},
+ publisher = {Multidisciplinary Digital Publishing Institute},
+ title = {A Data Analytics-Based Energy Information System (EIS) Tool to Perform Meter-Level Anomaly Detection and Diagnosis in Buildings},
+ venue = {Energies},
+ volume = {14}
+}
+
+",chiosa2021data
+A Dynamic Machine Learning-based Technique for Automated Fault Detection in HVAC Systems.,"@article{wall2011dynamic,
+ abstract = {With automated fault detection and diagnostics tools poised to address many of the barriers to good commissioning and maintenance practice in building energy systems, techniques from the artificial intelligence and machine learning domains are emerging as viable approaches where rules-based techniques can be less suitable. This paper describes a novel dynamic, machine learning-based technique for detecting faults in commercial air handling units. Preliminary results showing the performance of the proposed technique},
+ author = {Wall, Josh and Guo, Ying and Li, Jiaming and West, Sam},
+ journal = {ASHRAE Transactions},
+ number = {2},
+ pub_year = {2011},
+ title = {A Dynamic Machine Learning-based Technique for Automated Fault Detection in HVAC Systems.},
+ venue = {ASHRAE Transactions},
+ volume = {117}
+}
+
+",wall2011dynamic
+A case study based approach for remote fault detection using multi-level machine learning in a smart building,"@article{dey2020case,
+ abstract = {Due to the increased awareness of issues ranging from green initiatives, sustainability, and occupant well-being, buildings are becoming smarter, but with smart requirements come increasing complexity and monitoring, ultimately carried out by humans. Building heating ventilation and air-conditioning (HVAC) units are one of the major units that consume large percentages of a building's energy, for example through their involvement in space heating and cooling, the greatest energy consumption in buildings. By monitoring such components},
+ author = {Dey, Maitreyee and Rana, Soumya Prakash and Dudley, Sandra},
+ journal = {Smart Cities},
+ number = {2},
+ pages = {401--419},
+ pub_year = {2020},
+ publisher = {Multidisciplinary Digital Publishing Institute},
+ title = {A case study based approach for remote fault detection using multi-level machine learning in a smart building},
+ venue = {Smart Cities},
+ volume = {3}
+}
+
+",dey2020case
+A data analytics-based tool for the detection and diagnosis of anomalous daily energy patterns in buildings,"@inproceedings{piscitelli2021data,
+ abstract = {In this paper, a tool for the detection and diagnosis of anomalous electrical daily energy patterns relative to a transformer substation of a university campus was developed and tested. Through an innovative pattern recognition analysis consisting in a multi-step clustering process, six clusters of anomalous daily load profiles were identified and isolated in two-year historical data of total electrical energy consumption. The infrequent electrical load profiles were found to be strongly affected, in terms of both shape and magnitude, by},
+ author = {Piscitelli, Marco Savino and Brandi, Silvio and Capozzoli, Alfonso and Xiao, Fu},
+ booktitle = {Building Simulation},
+ number = {1},
+ organization = {Springer},
+ pages = {131--147},
+ pub_year = {2021},
+ title = {A data analytics-based tool for the detection and diagnosis of anomalous daily energy patterns in buildings},
+ venue = {Building Simulation},
+ volume = {14}
+}
+
+",piscitelli2021data
+A data-driven approach for fault diagnosis in HVAC chiller systems,"@inproceedings{beghi2015data,
+ abstract = {Faulty operations of Heating, Ventilation and Air Conditioning (HVAC) chiller systems can lead to discomfort for the user, energy wastage, system unreliability and shorter equipment life. Faults need to be diagnosed early to prevent further deterioration of the system behaviour and energy losses. Since it is not a common practice to collect historical data regarding unforeseen phenomena and abnormal behaviours for HVAC installations, in this paper a semi-supervised, data-driven approach is employed for fault detection and isolation},
+ author = {Beghi, Alessandro and Brignoli, Riccardo and Cecchinato, Luca and Menegazzo, Gabriele and Rampazzo, Mirco},
+ booktitle = {2015 IEEE Conference on Control Applications (CCA)},
+ organization = {IEEE},
+ pages = {966--971},
+ pub_year = {2015},
+ title = {A data-driven approach for fault diagnosis in HVAC chiller systems},
+ venue = {… IEEE Conference on …}
+}
+
+",beghi2015data
+A data-driven approach to simultaneous fault detection and diagnosis in data centers,"@article{asgari2021data,
+ abstract = {The failure of cooling systems in data centers (DCs) leads to higher indoor temperatures, causing crucial electronic devices to fail, and produces a significant economic loss. To circumvent this issue, fault detection and diagnosis (FDD) algorithms and associated control strategies can be applied to detect, diagnose, and isolate faults. Existing methods that apply FDD to DC cooling systems are designed to successfully overcome individually occurring faults but have difficulty in handling simultaneous faults. These methods either require},
+ author = {Asgari, Sahar and Gupta, Rohit and Puri, Ishwar K and Zheng, Rong},
+ journal = {Applied Soft Computing},
+ pages = {107638},
+ pub_year = {2021},
+ publisher = {Elsevier},
+ title = {A data-driven approach to simultaneous fault detection and diagnosis in data centers},
+ venue = {Applied Soft Computing},
+ volume = {110}
+}
+
+",asgari2021data
+A data-driven fault diagnosis approach towards oil retention in vapour compression refrigeration systems,"@inproceedings{van2019data,
+ abstract = {Therefore, this paper focusses on the investigation of the fault characteristics of oil-retention  by simulating this fault using a test facility. Based on the obtained dataset, a data-driven  fault diagnosis approach is derived. Furthermore, a genetic algorithm is used for the  selection of characteristic features, which are finally defined as input parameters for an  exemplary implemented classification algorithm. It is also demonstrated how this  classification algorithm correctly  In this paper, the fault characteristics of oil-retention in},
+ author = {van de Sand, Ron and Falk, Constantin and Corasaniti, Sandra and Reiff-Stephan, J{\""o}rg},
+ booktitle = {2019 International IEEE Conference and Workshop in {\'O}buda on Electrical and Power Engineering (CANDO-EPE)},
+ organization = {IEEE},
+ pages = {197--202},
+ pub_year = {2019},
+ title = {A data-driven fault diagnosis approach towards oil retention in vapour compression refrigeration systems},
+ venue = {… and Workshop in …}
+}
+
+",van2019data
+A data-driven strategy for detection and diagnosis of building chiller faults using linear discriminant analysis,"@article{li2016data,
+ abstract = {Chillers contribute to a significant part of the building energy consumption. In order to save energy and improve the performance of building automation systems, there is an increasing need for chiller fault detection and diagnosis (FDD). This paper proposes a two-stage data-driven FDD strategy which formulates the chiller fault detection and diagnosis task as a multi-class classification problem. Linear Discriminant Analysis (LDA) is adopted to project the high dimensional data into a lower dimensional space so as to achieve maximum class},
+ author = {Li, Dan and Hu, Guoqiang and Spanos, Costas J},
+ journal = {Energy and Buildings},
+ pages = {519--529},
+ pub_year = {2016},
+ publisher = {Elsevier},
+ title = {A data-driven strategy for detection and diagnosis of building chiller faults using linear discriminant analysis},
+ venue = {Energy and Buildings},
+ volume = {128}
+}
+
+",li2016data
+A decision tree based data-driven diagnostic strategy for air handling units,"@article{yan2016decision,
+ abstract = {Data-driven methods for fault detection and diagnosis of air handling units (AHUs) have attracted wide attention as they do not require high-level expert knowledge of the system of concern. This paper presents a decision tree based data-driven diagnostic strategy for AHUs, in which classification and regression tree (CART) algorithm is used for decision tree induction. A great advantage of the decision tree is that it can be understood and interpreted and therefore its reliability in fault diagnosis can be validated by both testing data and expert},
+ author = {Yan, Rui and Ma, Zhenjun and Zhao, Yang and Kokogiannakis, Georgios},
+ journal = {Energy and Buildings},
+ pages = {37--45},
+ pub_year = {2016},
+ publisher = {Elsevier},
+ title = {A decision tree based data-driven diagnostic strategy for air handling units},
+ venue = {Energy and Buildings},
+ volume = {133}
+}
+
+",yan2016decision
+A framework for knowledge discovery in massive building automation data and its application in building diagnostics,"@article{fan2015framework,
+ abstract = {Building Automation System (BAS) plays an important role in building operation nowadays. A huge amount of building operational data is stored in BAS; however, the data can seldom be effectively utilized due to the lack of powerful tools for analyzing the large data. Data mining (DM) is a promising technology for discovering knowledge hidden in large data. This paper presents a generic framework for knowledge discovery in massive BAS data using DM techniques. The framework is specifically designed considering the low},
+ author = {Fan, Cheng and Xiao, Fu and Yan, Chengchu},
+ journal = {Automation in Construction},
+ pages = {81--90},
+ pub_year = {2015},
+ publisher = {Elsevier},
+ title = {A framework for knowledge discovery in massive building automation data and its application in building diagnostics},
+ venue = {Automation in Construction},
+ volume = {50}
+}
+
+",fan2015framework
+A hybrid data mining approach for anomaly detection and evaluation in residential buildings energy data,"@article{xu2020hybrid,
+ abstract = {With the development in information technologies, today's building energy consumption can be well monitored by the building energy management systems. However, in most real applications there is no clear definition of abnormal building energy consumption. To overcome this limitation, this work proposes a novel deep learning based unsupervised anomaly detection framework that includes recurrent neural networks and quantile regression. Moreover, this framework is able to produce a prediction interval to detect and},
+ author = {Xu, Chengliang and Chen, Huanxin},
+ journal = {Energy and Buildings},
+ pages = {109864},
+ pub_year = {2020},
+ publisher = {Elsevier},
+ title = {A hybrid data mining approach for anomaly detection and evaluation in residential buildings energy data},
+ venue = {Energy and Buildings},
+ volume = {215}
+}
+
+",xu2020hybrid
+A model-based fault detection and diagnostic methodology for secondary HVAC systems,"@article{li2009model,
+ abstract = {As indicated in Chapters 1 and 2, there is a need to develop and validate a dynamic simulation model for an AHU system. Literature review also shows that there are existing models which can be adapted for the proposed AHU dynamic model. The objective of this study is to identify and adapt existing models to represent a single duct variable air volume AHU system model, which is the most common AHU system used in commercial and industrial buildings. The developed simulation model should be capable of simulating fault},
+ author = {Li, Shun},
+ pub_year = {2009},
+ title = {A model-based fault detection and diagnostic methodology for secondary HVAC systems},
+ venue = {NA}
+}
+
+",li2009model
+A one-class svm based tool for machine learning novelty detection in hvac chiller systems,"@article{beghi2014one,
+ abstract = {Faulty operations of Heating, Ventilation and Air Conditioning (HVAC) chiller systems can lead to discomfort for the occupants, energy wastage, unreliability and shorter equipment life. Such faults need to be detected early to prevent further escalation and energy losses. Commonly, data regarding unforeseen phenomena and abnormalities are rare or are not available at the moment for HVAC installations: for this reason in this paper an unsupervised One-Class SVM classifier employed as a novelty detection system to},
+ author = {Beghi, Alessandro and Cecchinato, Luca and Corazzol, Chiara and Rampazzo, Mirco and Simmini, Francesco and Susto, Gian Antonio},
+ journal = {IFAC Proceedings Volumes},
+ number = {3},
+ pages = {1953--1958},
+ pub_year = {2014},
+ publisher = {Elsevier},
+ title = {A one-class svm based tool for machine learning novelty detection in hvac chiller systems},
+ venue = {IFAC Proceedings …},
+ volume = {47}
+}
+
+",beghi2014one
+A reference architecture for the integration of automated energy performance fault diagnosis into HVAC systems,"@article{taal2018reference,
+ abstract = {Automated energy performance diagnosis systems are seldom applied in practice, leading to excessive energy use and poor indoor environment. One reason for this is that HVAC and energy performance diagnosis systems are designed separately by different experts. Current frameworks for energy performance diagnosis are not consistent with (or based on) HVAC schematic diagrams, as used by HVAC designers to design and operate these systems. We propose a generic reference architecture that decreases the gap between the},
+ author = {Taal, Arie and Itard, Laure and Zeiler, Wim},
+ journal = {Energy and Buildings},
+ pages = {144--155},
+ pub_year = {2018},
+ publisher = {Elsevier},
+ title = {A reference architecture for the integration of automated energy performance fault diagnosis into HVAC systems},
+ venue = {Energy and Buildings},
+ volume = {179}
+}
+
+",taal2018reference
+A semi-supervised approach to fault detection and diagnosis for building HVAC systems based on the modified generative adversarial network,"@article{li2021semi,
+ abstract = {Developing efficient fault detection and diagnosis (FDD) techniques for building HVAC systems is important for improving buildings' reliability and energy efficiency. The existing FDD methods can achieve satisfying results only if there are sufficient labeled training data. However, labelling the data is often costly and laborious, and most data collected in practice are unlabeled. Most of the existing FDD methods cannot leverage the unlabeled dataset which contains much information beneficial to fault classification, and this will impede the},
+ author = {Li, Bingxu and Cheng, Fanyong and Cai, Hui and Zhang, Xin and Cai, Wenjian},
+ journal = {Energy and Buildings},
+ pages = {111044},
+ pub_year = {2021},
+ publisher = {Elsevier},
+ title = {A semi-supervised approach to fault detection and diagnosis for building HVAC systems based on the modified generative adversarial network},
+ venue = {Energy and Buildings},
+ volume = {246}
+}
+
+",li2021semi
+"A statistical training data cleaning strategy for the PCA-based chiller sensor fault detection, diagnosis and data reconstruction method","@article{hu2016statistical,
+ abstract = {This paper presents a statistical training data cleaning strategy for PCA-based chiller sensor Fault Detection, Diagnosis and Data Reconstruction method. Finding and removing outliers from the original training data set, the training data quality can be improved by the presented data-cleaning strategy. This can enhance the efficiency of the fault detection and increase the accuracy of the data reconstruction. Outliers cannot be easily found in the original data set used for training the PCA model. These outliers would severely affect the projection},
+ author = {Hu, Yunpeng and Chen, Huanxin and Li, Guannan and Li, Haorong and Xu, Rongji and Li, Jiong},
+ journal = {Energy and Buildings},
+ pages = {270--278},
+ pub_year = {2016},
+ publisher = {Elsevier},
+ title = {A statistical training data cleaning strategy for the PCA-based chiller sensor fault detection, diagnosis and data reconstruction method},
+ venue = {Energy and Buildings},
+ volume = {112}
+}
+
+",hu2016statistical
+A system-level incipient fault-detection method for HVAC systems,"@article{zhao2013system,
+ abstract = {A fault-detection method is proposed in this article to detect system-level incipient faults in HVAC&R systems. This method adopts performance indexes to indicate the health statuses of subsystems of HVAC systems. The support vector regression algorithm is used to develop the reference performance index models. The exponentially weighted moving average control chart is introduced to detect the residuals between the measured performance indexes and benchmark performance indexes. Validations are made on a simulation},
+ author = {Zhao, Yang and Wang, Shengwei and Xiao, Fu},
+ journal = {HVAC\&R Research},
+ number = {5},
+ pages = {593--601},
+ pub_year = {2013},
+ publisher = {Taylor \& Francis},
+ title = {A system-level incipient fault-detection method for HVAC systems},
+ venue = {HVAC&R Research},
+ volume = {19}
+}
+
+",zhao2013system
+ARX model based fault detection and diagnosis for chillers using support vector machines,"@article{yan2014arx,
+ abstract = {Efficient and robust fault detection and diagnosis (FDD) can potentially play an important role in developing building management systems (BMS) for high performance buildings. Our research indicates that, in comparison to traditional model-based or data-driven methods, the combination of time series modeling and machine learning techniques produces higher accuracy and lower false alarm rates in FDD for chillers. In this paper, we study a hybrid method incorporating auto-regressive model with exogenous variables (ARX) and support},
+ author = {Yan, Ke and Shen, Wen and Mulumba, Timothy and Afshari, Afshin},
+ journal = {Energy and Buildings},
+ pages = {287--295},
+ pub_year = {2014},
+ publisher = {Elsevier},
+ title = {ARX model based fault detection and diagnosis for chillers using support vector machines},
+ venue = {Energy and Buildings},
+ volume = {81}
+}
+
+",yan2014arx
+An anomaly detection and dynamic energy performance evaluation method for HVAC systems based on data mining,"@article{xu2021anomaly,
+ abstract = {With the wide application of building automation systems (BASs), a large amount of building operation data are usually available, which provide a good basis for the optimal operation of a building's heating, ventilation and air conditioning (HVAC) systems. In this study, a data mining (DM)-based method is proposed for the anomaly detection and dynamic energy performance evaluation of an HVAC system. In this method, first a DM technology is used to detect the abnormal operation data from historical operation data and identify the possible},
+ author = {Xu, Yizhe and Yan, Chengchu and Shi, Jingfeng and Lu, Zefeng and Niu, Xiaofeng and Jiang, Yanlong and Zhu, Faxing},
+ journal = {Sustainable Energy Technologies and Assessments},
+ pages = {101092},
+ pub_year = {2021},
+ publisher = {Elsevier},
+ title = {An anomaly detection and dynamic energy performance evaluation method for HVAC systems based on data mining},
+ venue = {… Energy Technologies and …},
+ volume = {44}
+}
+
+",xu2021anomaly
+An autonomic cycle of data analysis tasks for the supervision of HVAC systems of smart building,"@article{aguilar2020autonomic,
+ abstract = {Early fault detection and diagnosis in heating, ventilation and air conditioning (HVAC) systems may reduce the damage of equipment, improving the reliability and safety of smart buildings, generating social and economic benefits. Data models for fault detection and diagnosis are increasingly used for extracting knowledge in the supervisory tasks. This article proposes an autonomic cycle of data analysis tasks (ACODAT) for the supervision of the building's HVAC systems. Data analysis tasks incorporate data mining models for},
+ author = {Aguilar, Jose and Ardila, Douglas and Avenda{\~n}o, Andr{\'e}s and Macias, Felipe and White, Camila and Gomez-Pulido, Jos{\'e} and Guti{\'e}rrez de Mesa, Jos{\'e} and Garces-Jimenez, Alberto},
+ journal = {Energies},
+ number = {12},
+ pages = {3103},
+ pub_year = {2020},
+ publisher = {Multidisciplinary Digital Publishing Institute},
+ title = {An autonomic cycle of data analysis tasks for the supervision of HVAC systems of smart building},
+ venue = {Energies},
+ volume = {13}
+}
+
+",aguilar2020autonomic
+An efficient VRF system fault diagnosis strategy for refrigerant charge amount based on PCA and dual neural network model,"@article{shi2018efficient,
+ abstract = {A fault detection and diagnosis (FDD) strategy is critical for the refrigerant charge amount (RCA) fault since improper RCA may affect the operational performance of a variable refrigerant flow system. The author's former work proposes a FDD strategy for the RCA fault. However, three aspects of the former FDD strategy need improvement, ie model performance evaluation, more feature information preservation and fault diagnosis accuracy (FDA), especially for the undercharge fault. Firstly, with regard to the model performance},
+ author = {Shi, Shubiao and Li, Guannan and Chen, Huanxin and Hu, Yunpeng and Wang, Xiaoyan and Guo, Yabin and Sun, Shaobo},
+ journal = {Applied Thermal Engineering},
+ pages = {1252--1262},
+ pub_year = {2018},
+ publisher = {Elsevier},
+ title = {An efficient VRF system fault diagnosis strategy for refrigerant charge amount based on PCA and dual neural network model},
+ venue = {Applied Thermal …},
+ volume = {129}
+}
+
+",shi2018efficient
+An ensemble learning framework for anomaly detection in building energy consumption,"@article{araya2017ensemble,
+ abstract = {During building operation, a significant amount of energy is wasted due to equipment and human-related faults. To reduce waste, today's smart buildings monitor energy usage with the aim of identifying abnormal consumption behaviour and notifying the building manager to implement appropriate energy-saving procedures. To this end, this research proposes a new pattern-based anomaly classifier, the collective contextual anomaly detection using sliding window (CCAD-SW) framework. The CCAD-SW framework identifies anomalous},
+ author = {Araya, Daniel B and Grolinger, Katarina and ElYamany, Hany F and Capretz, Miriam AM and Bitsuamlak, Girma},
+ journal = {Energy and Buildings},
+ pages = {191--206},
+ pub_year = {2017},
+ publisher = {Elsevier},
+ title = {An ensemble learning framework for anomaly detection in building energy consumption},
+ venue = {Energy and …},
+ volume = {144}
+}
+
+",araya2017ensemble
+An improved decision tree-based fault diagnosis method for practical variable refrigerant flow system using virtual sensor-based fault indicators,"@article{li2018improved,
+ abstract = {This paper proposes an improved decision tree (DT)-based fault diagnosis method for practical variable refrigerant flow (VRF) system. The proposed method is a three-stage method combining DT model with virtual sensor-based fault indicators (FIs). First, FIs are developed based on the virtual sensor (VS) theory for VRF faults, ie, condenser air-side fouling (Fouling), refrigerant undercharge (RU) and overcharge (RO). Second, FIs are employed as additional input variables to induct a DT-based classification model},
+ author = {Li, Guannan and Chen, Huanxin and Hu, Yunpeng and Wang, Jiangyu and Guo, Yabin and Liu, Jiangyan and Li, Haorong and Huang, Ronggeng and Lv, Hang and Li, Jiong},
+ journal = {Applied Thermal Engineering},
+ pages = {1292--1303},
+ pub_year = {2018},
+ publisher = {Elsevier},
+ title = {An improved decision tree-based fault diagnosis method for practical variable refrigerant flow system using virtual sensor-based fault indicators},
+ venue = {Applied Thermal …},
+ volume = {129}
+}
+
+",li2018improved
+An intelligent chiller fault detection and diagnosis methodology using Bayesian belief network,"@article{zhao2013intelligent,
+ abstract = {A generic intelligent fault detection and diagnosis (FDD) strategy is proposed in this study to simulate the actual diagnostic thinking of chiller experts. A three-layer Diagnostic Bayesian Network (DBN) is developed to diagnose chiller faults based on the Bayesian Belief Network (BBN) theory. The structure of the DBN is a graphical and qualitative illustration of the intrinsic causal relationships among causal factors in Layer 1, faults in Layer 2 and fault symptoms in Layer 3. The parameters of the DBN represent the quantitative probabilistic},
+ author = {Zhao, Yang and Xiao, Fu and Wang, Shengwei},
+ journal = {Energy and Buildings},
+ pages = {278--288},
+ pub_year = {2013},
+ publisher = {Elsevier},
+ title = {An intelligent chiller fault detection and diagnosis methodology using Bayesian belief network},
+ venue = {Energy and Buildings},
+ volume = {57}
+}
+
+",zhao2013intelligent
+Analytical investigation of autoencoder-based methods for unsupervised anomaly detection in building energy data,"@article{fan2018analytical,
+ abstract = {Practical building operations usually deviate from the designed building operational performance due to the wide existence of operating faults and improper control strategies. Great energy saving potential can be realized if inefficient or faulty operations are detected and amended in time. The vast amounts of building operational data collected by the Building Automation System have made it feasible to develop data-driven approaches to anomaly detection. Compared with supervised analytics, unsupervised anomaly detection is},
+ author = {Fan, Cheng and Xiao, Fu and Zhao, Yang and Wang, Jiayuan},
+ journal = {Applied energy},
+ pages = {1123--1135},
+ pub_year = {2018},
+ publisher = {Elsevier},
+ title = {Analytical investigation of autoencoder-based methods for unsupervised anomaly detection in building energy data},
+ venue = {Applied energy},
+ volume = {211}
+}
+
+",fan2018analytical
+Anomaly detection method of daily energy consumption patterns for central air conditioning systems,"@article{zhou2021anomaly,
+ abstract = {Anomaly detection of operating patterns of complex systems is an important measure to achieve building energy conservation. In this paper, a low-cost anomaly detection method is proposed to identify the anomaly energy consumption patterns of central air conditioning systems (CACS). The complex process of anomaly detection is simplified as a binary classification problem without threshold. And information entropy is used as the characteristic parameter of daily energy consumption patterns (DECP) while traditional},
+ author = {Zhou, Xuan and Yang, Tao and Liang, Liequan and Zi, Xuehui and Yan, Junwei and Pan, Dongmei},
+ journal = {Journal of Building Engineering},
+ pages = {102179},
+ pub_year = {2021},
+ publisher = {Elsevier},
+ title = {Anomaly detection method of daily energy consumption patterns for central air conditioning systems},
+ venue = {Journal of Building …},
+ volume = {38}
+}
+
+",zhou2021anomaly
+Artificial intelligence assisted false alarm detection and diagnosis system development for reducing maintenance cost of chillers at the data centre,"@article{lee2021artificial,
+ abstract = {According to a literature survey, artificial intelligence (AI)-assisted fault detection and diagnosis (FDD) for heat, ventilation, and air conditioning equipment can only reach a correct diagnosis rate of 97%–98.8% Yet, for industrial application, even 1% uncertainty may cause serious problems. Therefore, with AI-assisted FDD (AI-FDD), it is difficult to satisfy high-reliability requirements. This study proposed an innovative AI-assisted false alarm detection and diagnosis (AI-FADD) system. The proposed AI-FADD system combines signal},
+ author = {Lee, Dasheng and Lai, Chih-Wei and Liao, Kuo-Kai and Chang, Jia-Wei},
+ journal = {Journal of Building Engineering},
+ pages = {102110},
+ pub_year = {2021},
+ publisher = {Elsevier},
+ title = {Artificial intelligence assisted false alarm detection and diagnosis system development for reducing maintenance cost of chillers at the data centre},
+ venue = {Journal of Building Engineering},
+ volume = {36}
+}
+
+",lee2021artificial
+Automated fault detection and diagnosis of HVAC subsystems using statistical machine learning,"@inproceedings{west2011automated,
+ abstract = {The faulty operation of Heating Ventilation and Air Conditioning (HVAC) systems in commercial buildings can waste vast amounts of energy, cause unnecessary CO2 emissions and decrease occupant thermal comfort, reducing productivity. Faulty operation has been shown to account for up to 20% of commercial HVAC operating costs (Claridge, Culp et al. 2000). Non-catastrophic faults can be very difficult for operators to detect due to the increasing complexity of Building Management Systems and the large number of},
+ author = {West, Samuel R and Guo, Ying and Wang, X Rosalind and Wall, Joshua},
+ booktitle = {12th International Conference of the International Building Performance Simulation Association},
+ pages = {2659--2665},
+ pub_year = {2011},
+ title = {Automated fault detection and diagnosis of HVAC subsystems using statistical machine learning},
+ venue = {12th International Conference of …}
+}
+
+",west2011automated
+Automated load pattern learning and anomaly detection for enhancing energy management in smart buildings,"@article{capozzoli2018automated,
+ abstract = {The energy management of buildings currently offers a powerful opportunity to enhance energy efficiency and reduce the mismatch between the actual and expected energy demand, which is often due to an anomalous operation of the equipment and control systems. In this context, the characterisation of energy consumption patterns over time is of fundamental importance. This paper proposes a novel methodology for the characterisation of energy time series in buildings and the identification of infrequent and unexpected energy},
+ author = {Capozzoli, Alfonso and Piscitelli, Marco Savino and Brandi, Silvio and Grassi, Daniele and Chicco, Gianfranco},
+ journal = {Energy},
+ pages = {336--352},
+ pub_year = {2018},
+ publisher = {Elsevier},
+ title = {Automated load pattern learning and anomaly detection for enhancing energy management in smart buildings},
+ venue = {Energy},
+ volume = {157}
+}
+
+",capozzoli2018automated
+Bayesian method for HVAC plant sensor fault detection and diagnosis,"@article{ng2020bayesian,
+ abstract = {Together with the thermo-physical relationships among the flow rates and temperatures of water in a piping system, the Bayesian method was employed to develop a model for detection and evaluation of biases of water flow and temperature sensors in a central chiller plant. The model can handle biases of multiple sensors occurring simultaneously and can remain functional when the coverage of the available measurements is incomplete. A series of case studies was done to verify the performance of the model and for comparison with the},
+ author = {Ng, KH and Yik, FWH and Lee, P and Lee, KKY and Chan, DCH},
+ journal = {Energy and Buildings},
+ pages = {110476},
+ pub_year = {2020},
+ publisher = {Elsevier},
+ title = {Bayesian method for HVAC plant sensor fault detection and diagnosis},
+ venue = {Energy and Buildings},
+ volume = {228}
+}
+
+",ng2020bayesian
+Black-box models for fault detection and performance monitoring of buildings,"@article{jacob2010black,
+ abstract = {Black-box models such as linear regression have proven to be helpful in ongoing building commissioning in many ways. The aim of this work is to improve linear models with change point for fault detection in buildings. Building simulations revealed poor performance of them (R< 0.7) for some low energy buildings. The regression models (RMs) can be considerably improved by introducing the rate of change of the indoor air temperature (Δ T ind) as an independent variable. Thus, R 2 values were raised by up to 0.5 (eg from 0.2 to 0.7, example},
+ author = {Jacob, Dirk and Dietz, Sebastian and Komhard, Susanne and Neumann, Christian and Herkel, Sebastian},
+ journal = {Journal of Building Performance Simulation},
+ number = {1},
+ pages = {53--62},
+ pub_year = {2010},
+ publisher = {Taylor \& Francis},
+ title = {Black-box models for fault detection and performance monitoring of buildings},
+ venue = {Journal of Building …},
+ volume = {3}
+}
+
+",jacob2010black
+Case studies of fault diagnosis and energy saving in buildings using data mining techniques,"@inproceedings{cheng2016case,
+ abstract = {Building Automation Systems (BASs) have been developed to provide a safe, comfortable, and energy-efficient indoor environment for households. A tremendous volume and enormous variety of building data are collected and stored in BASs. However, these data could not be completely utilized by traditional data analytics due to the huge volume and heterogeneous nature. In this paper, case studies are carried out using data mining techniques to find the potential value and discover the hidden knowledge in building area},
+ author = {Cheng, Zhijin and Zhao, Qianchuan and Wang, Fulin and Chen, Zheliang and Jiang, Yi and Li, Yun},
+ booktitle = {2016 IEEE International Conference on Automation Science and Engineering (CASE)},
+ organization = {IEEE},
+ pages = {646--651},
+ pub_year = {2016},
+ title = {Case studies of fault diagnosis and energy saving in buildings using data mining techniques},
+ venue = {2016 IEEE …}
+}
+
+",cheng2016case
+Chiller sensor fault detection using a self-adaptive principal component analysis method,"@article{hu2012chiller,
+ abstract = {This paper presents a self adaptive chiller sensor fault detection strategy based on Principal Component Analysis (PCA) method, namely a self-Adaptive Principal Component Analysis (APCA) method. The original data set used to train the PCA model usually contains some error samples, whose useless residual subspace information make the threshold of Q-statistic higher than the expected threshold. This leads to a low sensitivity and low fault detection efficiency at low sensor fault levels. APCA is developed to automatically remove},
+ author = {Hu, Yunpeng and Chen, Huanxin and Xie, Junlong and Yang, Xiaoshuang and Zhou, Cheng},
+ journal = {Energy and buildings},
+ pages = {252--258},
+ pub_year = {2012},
+ publisher = {Elsevier},
+ title = {Chiller sensor fault detection using a self-adaptive principal component analysis method},
+ venue = {Energy and buildings},
+ volume = {54}
+}
+
+",hu2012chiller
+Cluster analysis-based anomaly detection in building automation systems,"@article{gunay2020cluster,
+ abstract = {Faults in heating, ventilation, and air-conditioning control networks substantially affect energy and comfort performance in commercial buildings. As these control networks are comprised of many sensors and actuators, it is challenging to identify, often subtle, anomalies caused by these faults. In this paper, we develop a cluster analysis method for anomaly detection. The proposed method consolidates the building automation system data into a small number of distinct patterns of operation. These distinct patterns help energy},
+ author = {Gunay, H Burak and Shi, Zixiao},
+ journal = {Energy and Buildings},
+ pages = {110445},
+ pub_year = {2020},
+ publisher = {Elsevier},
+ title = {Cluster analysis-based anomaly detection in building automation systems},
+ venue = {Energy and Buildings},
+ volume = {228}
+}
+
+",gunay2020cluster
+Combining knowledge and historical data for system-level fault diagnosis of HVAC systems,"@article{verbert2017combining,
+ abstract = {Interdependencies among system components and the existence of multiple operating modes present a challenge for fault diagnosis of Heating, Ventilation, and Air Conditioning (HVAC) systems. Reliable and timely diagnosis can only be ensured when it is performed in all operating modes, and at the system level, rather than at the level of the individual components. Nevertheless, almost no HVAC fault diagnosis methods that satisfy these requirements are described in literature. In this paper, we propose a multiple-model},
+ author = {Verbert, Kim and Babu{\v{s}}ka, R and De Schutter, Bart},
+ journal = {Engineering Applications of Artificial Intelligence},
+ pages = {260--273},
+ pub_year = {2017},
+ publisher = {Elsevier},
+ title = {Combining knowledge and historical data for system-level fault diagnosis of HVAC systems},
+ venue = {Engineering Applications of Artificial …},
+ volume = {59}
+}
+
+",verbert2017combining
+Data mining based sensor fault diagnosis and validation for building air conditioning system,"@article{hou2006data,
+ abstract = {A strategy based on the data mining (DM) method is developed to detect and diagnose sensor faults based on the past running performance data in heating, ventilating and air conditioning (HVAC) systems, combining a rough set approach and an artificial neural network (ANN). The reduced information is used to develop classification rules and train the neural network to infer appropriate parameters. The differences between measured thermodynamic states and predicted states obtained from models for normal performance},
+ author = {Hou, Zhijian and Lian, Zhiwei and Yao, Ye and Yuan, Xinjian},
+ journal = {Energy Conversion and Management},
+ number = {15-16},
+ pages = {2479--2490},
+ pub_year = {2006},
+ publisher = {Elsevier},
+ title = {Data mining based sensor fault diagnosis and validation for building air conditioning system},
+ venue = {Energy Conversion and Management},
+ volume = {47}
+}
+
+",hou2006data
+Data-driven fault diagnosis for residential variable refrigerant flow system on imbalanced data environments,"@article{zhou2021data,
+ abstract = {Data-driven approach has emerged as a popular research method for fault detection and diagnosis (FDD) of variable refrigerant flow system. However, one serious issue has been raised in recent studies, which shows that training classifiers with datasets which suffer of imbalanced class distributions can significantly influence the final classification accuracy. So, aiming at the imbalanced dataset environment problem of variable refrigerant flow (VRF) system based on data-driven fault detect and diagnosis, we conducted a study. First of all},
+ author = {Zhou, Zhenxin and Chen, Huanxin and Li, Guannan and Zhong, Hanlu and Zhang, Menghua and Wu, Junfeng},
+ journal = {International Journal of Refrigeration},
+ pages = {34--43},
+ pub_year = {2021},
+ publisher = {Elsevier},
+ title = {Data-driven fault diagnosis for residential variable refrigerant flow system on imbalanced data environments},
+ venue = {International Journal of …},
+ volume = {125}
+}
+
+",zhou2021data
+Deep-learning-based fault detection and diagnosis of air-handling units,"@article{lee2019deep,
+ abstract = {This study proposed a real-time fault diagnostic model for air-handling units (AHUs); the model used deep learning to improve the operational efficiency of AHUs and thereby reduce the energy consumption of HVAC—heating, ventilating, and air conditioning—systems in buildings. Additionally, EnergyPlus simulation software was employed to establish different types of fault operation behavior data to serve as references for deep learning, thus reducing the complexity of data preprocessing, retaining data completeness, and improving the},
+ author = {Lee, Kuei-Peng and Wu, Bo-Huei and Peng, Shi-Lin},
+ journal = {Building and Environment},
+ pages = {24--33},
+ pub_year = {2019},
+ publisher = {Elsevier},
+ title = {Deep-learning-based fault detection and diagnosis of air-handling units},
+ venue = {Building and Environment},
+ volume = {157}
+}
+
+",lee2019deep
+Detection and diagnosis for sensor fault in HVAC systems,"@article{du2007detection,
+ abstract = {Principal component analysis (PCA) is presented to detect single sensor faults in heating, ventilation and air conditioning (HVAC) systems. Three PCA models, based on energy balance and air side and water side flow pressure balances, respectively, are set up to detect whether there is any abnormality occurring in the systems. With any fault discovered, a joint angle plot, which compares the new fault vector with known ones in the library, can be used to isolate the faulty sensor indeed. As pre-diagnosis, some expert rules are used to},
+ author = {Du, Zhimin and Jin, Xinqiao},
+ journal = {Energy Conversion and Management},
+ number = {3},
+ pages = {693--702},
+ pub_year = {2007},
+ publisher = {Elsevier},
+ title = {Detection and diagnosis for sensor fault in HVAC systems},
+ venue = {Energy Conversion and Management},
+ volume = {48}
+}
+
+",du2007detection
+Development of an RDP neural network for building energy consumption fault detection and diagnosis,"@article{magoules2013development,
+ abstract = {Fault detection and diagnosis (FDD) is an important issue in building energy conservation. This paper proposes a new option for solving this problem at the building level by using a recursive deterministic perceptron (RDP) neural network. Results show a higher than 97% level of generalization in all the designed experiments. Based on this high detection ability of RDP model, a new diagnostic architecture is proposed. Our experiments demonstrate that it is able to not only report correct source of faults but also sort sources in the order of},
+ author = {Magoul{\`e}s, Fr{\'e}d{\'e}ric and Zhao, Hai-xiang and Elizondo, David},
+ journal = {Energy and Buildings},
+ pages = {133--138},
+ pub_year = {2013},
+ publisher = {Elsevier},
+ title = {Development of an RDP neural network for building energy consumption fault detection and diagnosis},
+ venue = {Energy and Buildings},
+ volume = {62}
+}
+
+",magoules2013development
+Energy diagnosis of variable refrigerant flow (VRF) systems: Data mining technique and statistical quality control approach,"@article{liu2018energy,
+ abstract = {The variable refrigerant flow (VRF) system has changeable energy performance due to shifty meteorological conditions and unstable internal factors (eg complex control strategies, various part load ratios). It is difficult to determine the causes of drastic energy consumption variations are normal factors or faults. This study therefore proposed an energy diagnosis method for VRF systems based on data mining techniques and statistical quality control approaches. The correlation analysis is employed to select key factors and the DBSCAN},
+ author = {Liu, Jiangyan and Liu, Jiahui and Chen, Huanxin and Yuan, Yue and Li, Zhengfei and Huang, Ronggeng},
+ journal = {Energy and Buildings},
+ pages = {148--162},
+ pub_year = {2018},
+ publisher = {Elsevier},
+ title = {Energy diagnosis of variable refrigerant flow (VRF) systems: Data mining technique and statistical quality control approach},
+ venue = {Energy and Buildings},
+ volume = {175}
+}
+
+",liu2018energy
+Energy efficiency solutions for buildings: Automated fault diagnosis of air handling units using generative adversarial networks,"@article{zhong2019energy,
+ abstract = {Automated fault diagnosis (AFD) for various energy consumption components is one of the main topics for energy efficiency solutions. However, the lack of faulty samples in the training process remains as a difficulty for data-driven AFD of heating, ventilation and air conditioning (HVAC) subsystems, such as air handling units (AHU). Existing works show that semi-supervised learning theories can effectively alleviate the issue by iteratively inserting newly tested faulty data samples into the training pool when the same fault happens again},
+ author = {Zhong, Chaowen and Yan, Ke and Dai, Yuting and Jin, Ning and Lou, Bing},
+ journal = {Energies},
+ number = {3},
+ pages = {527},
+ pub_year = {2019},
+ publisher = {Multidisciplinary Digital Publishing Institute},
+ title = {Energy efficiency solutions for buildings: Automated fault diagnosis of air handling units using generative adversarial networks},
+ venue = {Energies},
+ volume = {12}
+}
+
+",zhong2019energy
+Ensemble learning with member optimization for fault diagnosis of a building energy system,"@article{han2020ensemble,
+ abstract = {For better service and energy savings, improved fault detection and diagnosis (FDD) of building energy systems is of great importance. To achieve this aim, ensemble learning is investigated and introduced in this study. Three types of methods like K-nearest neighbor (KNN), support vector machine (SVM), and random forest (RF) are carefully selected, optimized, and integrated into an ensemble diagnostic model (EDM) by the majority voting method. Experimental data for seven typical gradual faults in a centrifugal building chiller},
+ author = {Han, Hua and Zhang, Zhan and Cui, Xiaoyu and Meng, Qinghong},
+ journal = {Energy and Buildings},
+ pages = {110351},
+ pub_year = {2020},
+ publisher = {Elsevier},
+ title = {Ensemble learning with member optimization for fault diagnosis of a building energy system},
+ venue = {Energy and Buildings},
+ volume = {226}
+}
+
+",han2020ensemble
+Explainable artificial intelligence based heat recycler fault detection in air handling unit,"@inproceedings{madhikermi2019explainable,
+ abstract = {We are entering a new age of AI applications where machine learning is the core technology but machine learning models are generally non-intuitive, opaque and usually complicated for people to understand. The current AI applications inability to explain is decisions and actions to end users have limited its effectiveness. The explainable AI will enable the users to understand, accordingly trust and effectively manage the decisions made by machine learning models. The heat recycler's fault detection in Air Handling Unit (AHU) has been},
+ author = {Madhikermi, Manik and Malhi, Avleen Kaur and Fr{\""a}mling, Kary},
+ booktitle = {International Workshop on Explainable, Transparent Autonomous Agents and Multi-Agent Systems},
+ organization = {Springer},
+ pages = {110--125},
+ pub_year = {2019},
+ title = {Explainable artificial intelligence based heat recycler fault detection in air handling unit},
+ venue = {International Workshop on …}
+}
+
+",madhikermi2019explainable
+Fault Diagnosis of HVAC System Considering LMBP Neural Network Method,"@inproceedings{guan2020fault,
+ abstract = {Given the complexity of the mathematical model for the HVAC system and the constant changes of multiple external disturbances and working conditions, the application of intelligent control in the HVAC control system to improve the control performance of the HVAC control system has become a research hotspot. The Levenberg-Marquart algorithm (LM algorithm) is studied to address the defects of slow convergence speed and prone to falling into local minimum in the learning process of the BP neural network. To solve the two},
+ author = {Guan, XiaoMan},
+ booktitle = {Journal of Physics: Conference Series},
+ number = {3},
+ organization = {IOP Publishing},
+ pages = {032013},
+ pub_year = {2020},
+ title = {Fault diagnosis of HVAC system considering LMBP neural network method},
+ venue = {Journal of Physics: Conference Series},
+ volume = {1533}
+}
+
+",guan2020fault
+Fault detection and diagnosis for buildings and HVAC systems using combined neural networks and subtractive clustering analysis,"@article{du2014fault,
+ abstract = {Various faults occurred in the buildings and heating, ventilation and air conditioning (HVAC) systems usually lead to more energy consumption and worse thermal comfort inevitably. The soft faults such as the sensor biases are difficult to discover in the real buildings. A robust diagnostics tool is presented to improve the energy efficiency and thermal comfort of buildings through removing various faults. The combined neural networks, integrating the basic neural network and auxiliary neural network, are developed to detect the abnormities},
+ author = {Du, Zhimin and Fan, Bo and Jin, Xinqiao and Chi, Jinlei},
+ journal = {Building and Environment},
+ pages = {1--11},
+ pub_year = {2014},
+ publisher = {Elsevier},
+ title = {Fault detection and diagnosis for buildings and HVAC systems using combined neural networks and subtractive clustering analysis},
+ venue = {Building and Environment},
+ volume = {73}
+}
+
+",du2014fault
+Fault detection and diagnosis for heat source system using convolutional neural network with imaged faulty behavior data,"@article{miyata2020fault,
+ abstract = {Faults that impair performance can occur in a heat source system because it comprises various devices and has complex controls. This article presents a novel method for fault detection and diagnosis (FDD). This study focused on a real system with a water thermal storage tank. First, system behaviors in response to faults were determined using a detailed system simulation. Then, a fault database was generated using the simulation results with fault labels. We preprocessed the database and converted the data into images. Then},
+ author = {Miyata, Shohei and Lim, Jongyeon and Akashi, Yasunori and Kuwahara, Yasuhiro and Tanaka, Katsuhiko},
+ journal = {Science and Technology for the Built Environment},
+ number = {1},
+ pages = {52--60},
+ pub_year = {2020},
+ publisher = {Taylor \& Francis},
+ title = {Fault detection and diagnosis for heat source system using convolutional neural network with imaged faulty behavior data},
+ venue = {… and Technology for the …},
+ volume = {26}
+}
+
+",miyata2020fault
+Fault detection and diagnosis in air handling using data-driven methods,"@article{montazeri2020fault,
+ abstract = {Actuator and sensor faults are inevitable in air handling units. It may cause loss of energy and reduction in fresh air quality and may endanger human life in some cases like, eg, the operation room. This paper presents a fault detection and diagnosis method in air handling units. At first, a model similar to the RP-1312 model was considered for air handling units. Some fault signals were then applied to the system, and finally, data were obtained to be used in fault detection block. Due to the high dimensions and volume of the data, the},
+ author = {Montazeri, Atena and Kargar, Seyed Mohamad},
+ journal = {Journal of Building Engineering},
+ pages = {101388},
+ pub_year = {2020},
+ publisher = {Elsevier},
+ title = {Fault detection and diagnosis in air handling using data-driven methods},
+ venue = {Journal of Building Engineering},
+ volume = {31}
+}
+
+",montazeri2020fault
+Fault detection and diagnostics of an HVAC sub-system using adaptive resonance theory neural networks,"@book{jones2015fault,
+ abstract = {The commercial building sector consumed about 20% of the total primary energy in the US in 2008. A significant yet avoidable portion of the energy consumption is due to inefficient system operations. The inefficiencies can be attributed to degrading HVAC sub-systems, and undetected abnormal conditions. Recognition and remediation of these conditions through advanced data analytics can reduce energy consumption by 5% to 20%. This could save about $9 billion in utility costs in the US alone.},
+ author = {Jones, Christian Birk},
+ pub_year = {2015},
+ publisher = {The University of New Mexico},
+ title = {Fault detection and diagnostics of an HVAC sub-system using adaptive resonance theory neural networks},
+ venue = {NA}
+}
+
+",jones2015fault
+Fault diagnosis for heat pumps with parameter identification and clustering,"@article{zogg2006fault,
+ abstract = {For reducing the energy consumption of heat pumps, fault detection and diagnosis (FDD) is fundamental. The FDD system presented is based on a gray-box process model, the parameters of which are identified online. The faults are classified from the parameters using clustering methods. Known clustering techniques have been simplified and new “vector clustering” techniques have been developed for classifying gradual faults. The FDD system has been tested in various real applications, for one of which the results are presented in},
+ author = {Zogg, D and Shafai, E and Geering, HP},
+ journal = {Control Engineering Practice},
+ number = {12},
+ pages = {1435--1444},
+ pub_year = {2006},
+ publisher = {Elsevier},
+ title = {Fault diagnosis for heat pumps with parameter identification and clustering},
+ venue = {Control Engineering Practice},
+ volume = {14}
+}
+
+",zogg2006fault
+Fault diagnosis of HVAC air-handling systems considering fault propagation impacts among components,"@article{yan2017fault,
+ abstract = {In a heating, ventilation, and air conditioning system, an air-handling system is a key module. Its components (eg, air handling unit, air-mixing box, and fans), linked through airflows, condition air to a desired temperature and/or humidity based on comfort or controlled environment requirements. Identifying failure modes and estimating their severities allow maintenance crews to know which faults have occurred, how critical they are, and be guided in the repair process to improve the system availability. The problem of},
+ author = {Yan, Ying and Luh, Peter B and Pattipati, Krishna R},
+ journal = {IEEE Transactions on Automation Science and Engineering},
+ number = {2},
+ pages = {705--717},
+ pub_year = {2017},
+ publisher = {IEEE},
+ title = {Fault diagnosis of HVAC air-handling systems considering fault propagation impacts among components},
+ venue = {IEEE Transactions on Automation …},
+ volume = {14}
+}
+
+",yan2017fault
+Fault prognosis of key components in HVAC air-handling systems at component and system levels,"@article{yan2020fault,
+ abstract = {Fault prognosis of the air-handling systems, which are the key subsystems of heating, ventilation, and air conditioning systems, allows system operators to know the remaining useful life (RUL), thus preventing unexpected breakdowns and reducing the operational and maintenance costs. In this article, a new hidden semi-Markov model-based method is developed. In the method, only relevant state-transition points are selected and estimated, leading to computational efficiency. Physics-based models are used in a novel way to},
+ author = {Yan, Ying and Luh, Peter B and Pattipati, Krishna R},
+ journal = {IEEE Transactions on Automation Science and Engineering},
+ number = {4},
+ pages = {2145--2153},
+ pub_year = {2020},
+ publisher = {IEEE},
+ title = {Fault prognosis of key components in HVAC air-handling systems at component and system levels},
+ venue = {IEEE Transactions on Automation …},
+ volume = {17}
+}
+
+",yan2020fault
+Fuzzy-genetic algorithm for automatic fault detection in HVAC systems,"@article{lo2007fuzzy,
+ abstract = {Detecting fault before it deteriorates the system performance is crucial for the reliability and safety of many engineering systems. This paper develops an intelligent technique based on fuzzy-genetic algorithm (FGA) for automatically detecting faults on HVAC system. Many researchers have proposed only using fuzzy systems to effect fault detection and diagnosis. Other applications of the FGA are mainly focused on the synthesis of fuzzy control rules. The proposed automatic fault detection system (AFD) monitors the HVAC system states},
+ author = {Lo, CH and Chan, PT and Wong, Yiu-Kwong and Rad, Ahmad B and Cheung, KL},
+ journal = {Applied soft computing},
+ number = {2},
+ pages = {554--560},
+ pub_year = {2007},
+ publisher = {Elsevier},
+ title = {Fuzzy-genetic algorithm for automatic fault detection in HVAC systems},
+ venue = {Applied soft computing},
+ volume = {7}
+}
+
+",lo2007fuzzy
+Generative adversarial network for fault detection diagnosis of chillers,"@article{yan2020generative,
+ abstract = {Automatic fault detection and diagnosis (AFDD) for chillers has significant impacts on energy saving, indoor environment comfort and systematic building management. Recent works show that the artificial intelligence (AI) enhanced techniques outperform most of the traditional fault detection and diagnosis methods. However, one serious issue has been raised in recent studies, which shows that insufficient number of fault training samples in the training phase of AI techniques can significantly influence the final classification accuracy},
+ author = {Yan, Ke and Chong, Adrian and Mo, Yuchang},
+ journal = {Building and Environment},
+ pages = {106698},
+ pub_year = {2020},
+ publisher = {Elsevier},
+ title = {Generative adversarial network for fault detection diagnosis of chillers},
+ venue = {Building and Environment},
+ volume = {172}
+}
+
+",yan2020generative
+HVAC fault diagnosis system using rough set theory and support vector machine,"@inproceedings{li2009hvac,
+ abstract = {Preventive maintenance plays a very important role in the modern Heating, Ventilation and Air Conditioning (HVAC) systems for guaranteeing the thermal comfort, energy saving and reliability. The fault diagnosis on HVAC system is a difficult problem due to the complex structure of the HVAC and the presence of multi-excite sources. As the HVAC system fault information has inaccurate and uncertainty characteristic, A new kind of fault diagnosis system based on Rough Set Theory (RST) and Support Vector Machine (SVM) is presented},
+ author = {Li, Xuemei and Shao, Ming and Ding, Lixing},
+ booktitle = {2009 Second International Workshop on Knowledge Discovery and Data Mining},
+ organization = {IEEE},
+ pages = {895--899},
+ pub_year = {2009},
+ title = {HVAC fault diagnosis system using rough set theory and support vector machine},
+ venue = {2009 Second International Workshop on …}
+}
+
+",li2009hvac
+"Improved sensor fault detection, diagnosis and estimation for screw chillers using density-based clustering and principal component analysis","@article{li2018improved,
+ abstract = {Since the outdoor and indoor load conditions always change continuously, it may lead to the various operation characteristics in chillers. If a single principal component analysis (PCA) model is applied to detect and diagnose sensor faults under a wide range of chiller operation conditions, the various operation characteristics may confuse the sensor fault analysis process in two aspects. One is that the single PCA model may not be sensitive enough to detect less server faults due to the inadaptable and fixed fault detection boundary;},
+ author = {Li, Guannan and Hu, Yunpeng},
+ journal = {Energy and Buildings},
+ pages = {502--515},
+ pub_year = {2018},
+ publisher = {Elsevier},
+ title = {Improved sensor fault detection, diagnosis and estimation for screw chillers using density-based clustering and principal component analysis},
+ venue = {Energy and Buildings},
+ volume = {173}
+}
+
+",li2018improved
+"Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure","@inproceedings{sipple2020interpretable,
+ abstract = {In this paper we propose a scalable, unsupervised approach for detecting anomalies in the Internet of Things (IoT). Complex devices are connected daily and eagerly generate vast streams of multidimensional telemetry. These devices often operate in distinct modes based on external conditions (day/night, occupied/vacant, etc.), and to prevent complete or partial system outage, we would like to recognize as early as possible when these devices begin to operate outside the normal modes. We propose an unsupervised anomaly detection method},
+ author = {Sipple, John},
+ booktitle = {International Conference on Machine Learning},
+ organization = {PMLR},
+ pages = {9016--9025},
+ pub_year = {2020},
+ title = {Interpretable, multidimensional, multimodal anomaly detection with negative sampling for detection of device failure},
+ venue = {International Conference on Machine Learning}
+}
+
+",sipple2020interpretable
+Model-based fault detection and diagnosis of HVAC systems using support vector machine method,"@article{liang2007model,
+ abstract = {Preventive maintenance plays a very important role in the modern Heating, Ventilation and Air Conditioning (HVAC) systems for guaranteeing the thermal comfort, energy saving and reliability. Its key is a cost-effective Fault Detection and Diagnosis (FDD) method. To achieve this goal, this paper proposes a new method by combining the model-based FDD method and the Support Vector Machine (SVM) method. A lumped-parameter model of a single zone HVAC system is developed first, and then the characteristics of three major faults, including},
+ author = {Liang, Jian and Du, Ruxu},
+ journal = {International Journal of refrigeration},
+ number = {6},
+ pages = {1104--1114},
+ pub_year = {2007},
+ publisher = {Elsevier},
+ title = {Model-based fault detection and diagnosis of HVAC systems using support vector machine method},
+ venue = {International Journal of refrigeration},
+ volume = {30}
+}
+
+",liang2007model
+Monte Carlo analysis of the effect of uncertainties on model-based HVAC fault detection and diagnostics,"@article{wang2014monte,
+ abstract = {Faults in HVAC systems can have a significant negative impact on energy consumption, indoor thermal comfort, and air quality. Automatic fault detection and diagnosis tools can help commissioning providers, operators, and facility managers efficiently detect and diagnose faults. They also can help satisfy the increasing demand for commissioning. A model-based fault detection and diagnosis (FDD) method was developed to detect faults by comparing model prediction and measurement, and to diagnose faults using a rule-based},
+ author = {Wang, Liping and Haves, Philip},
+ journal = {HVAC\&R Research},
+ number = {6},
+ pages = {616--627},
+ pub_year = {2014},
+ publisher = {Taylor \& Francis},
+ title = {Monte Carlo analysis of the effect of uncertainties on model-based HVAC fault detection and diagnostics},
+ venue = {HVAC&R Research},
+ volume = {20}
+}
+
+",wang2014monte
+Novel chiller fault diagnosis using deep neural network (DNN) with simulated annealing (SA),"@article{han2021novel,
+ abstract = {Effective chiller fault diagnosis is of great importance for maintaining a better service and energy efficiency. Deep learning proficiently solves some problems challenging Artificial Intelligence and becomes one of the excellent candidates for fault diagnosis recently. This study proposes a novel fault diagnosis strategy for a chiller, which merges simulated annealing (SA) into a deep neural network (DNN) to obtain effective, efficient, and stable performance. The proposed SA-DNN strategy is carefully compared with DNN and back},
+ author = {Han, Hua and Xu, Ling and Cui, Xiaoyu and Fan, Yuqiang},
+ journal = {International Journal of Refrigeration},
+ pages = {269--278},
+ pub_year = {2021},
+ publisher = {Elsevier},
+ title = {Novel chiller fault diagnosis using deep neural network (DNN) with simulated annealing (SA)},
+ venue = {International Journal of Refrigeration},
+ volume = {121}
+}
+
+",han2021novel
+Optimized neural network-based fault diagnosis strategy for VRF system in heating mode using data mining,"@article{guo2017optimized,
+ abstract = {This paper presents the optimized back propagation neural network (BPNN) method for fault diagnosis of the variable refrigerant flow air conditioning (VRF) system in the heating mode. A feature variable set optimization approach of diagnosis models is proposed based on data mining method. First, the correlation analysis method is used to eliminate redundant variables. Then, the association rule mining method is used to optimize the feature set (FS) selection. Five FSs (FS1-FS5) are obtained by optimized feature variable selection. FS1 is},
+ author = {Guo, Yabin and Li, Guannan and Chen, Huanxin and Wang, Jiangyu and Guo, Mengru and Sun, Shaobo and Hu, Wenju},
+ journal = {Applied Thermal Engineering},
+ pages = {1402--1413},
+ pub_year = {2017},
+ publisher = {Elsevier},
+ title = {Optimized neural network-based fault diagnosis strategy for VRF system in heating mode using data mining},
+ venue = {Applied Thermal …},
+ volume = {125}
+}
+
+",guo2017optimized
+PCA-based method of soft fault detection and identification for the ongoing commissioning of chillers,"@article{cotrufo2016pca,
+ abstract = {This paper presents a new PCA-based method of soft fault detection and identification for the ongoing commissioning of chillers, which is composed of the three main phases: threshold model training, outliers detection, and variables identification. The method is applied to Building Automation System (BAS) trend data from a case study building. The first case used one week of data for training the threshold model, and then applied the model to two months of application data, both data sets being collected during the summer of 2009},
+ author = {Cotrufo, Nunzio and Zmeureanu, Radu},
+ journal = {Energy and Buildings},
+ pages = {443--452},
+ pub_year = {2016},
+ publisher = {Elsevier},
+ title = {PCA-based method of soft fault detection and identification for the ongoing commissioning of chillers},
+ venue = {Energy and Buildings},
+ volume = {130}
+}
+
+",cotrufo2016pca
+Robust fault tolerant application for HVAC system based on combination of online SVM and ANN black box model,"@inproceedings{dehestani2013robust,
+ abstract = {Efficient heating, ventilation, and air-conditioning (HVAC) systems are one of the big challenges today around the world. The fault detection and isolation (FDI) play a significant role in the monitoring, repairing and maintaining of technical systems for the final destination of cost reduction. FDI makes it possible to reduce total cost effective of maintenance and thus increase the capacity utilization rates of equipment. Reduction of energy wasting in the system by on time fault detection is another goal. Therefore, this work proposes a new fault},
+ author = {Dehestani, Davood and Su, S and Nguyen, H and Guo, Ying},
+ booktitle = {2013 European Control Conference (ECC)},
+ organization = {IEEE},
+ pages = {2976--2981},
+ pub_year = {2013},
+ title = {Robust fault tolerant application for HVAC system based on combination of online SVM and ANN black box model},
+ venue = {2013 European Control …}
+}
+
+",dehestani2013robust
+Sensor fault detection and validation of VAV terminals in air conditioning systems,"@article{wang2005sensor,
+ abstract = {Sensor failure and bias are harmful to the process control of air conditioning systems, resulting in poor control of the indoor environment and waste of energy. A strategy is developed for the flow sensor fault detection and validation of variable air volume (VAV) terminals in air conditioning systems. Principal component analysis (PCA) models at both system and terminal levels are built and employed in the strategy. Sensor faults are detected using both the T 2 statistic and square prediction error (SPE) and isolated using the SPE},
+ author = {Wang, Shengwei and Qin, Jianying},
+ journal = {Energy conversion and management},
+ number = {15-16},
+ pages = {2482--2500},
+ pub_year = {2005},
+ publisher = {Elsevier},
+ title = {Sensor fault detection and validation of VAV terminals in air conditioning systems},
+ venue = {Energy conversion and management},
+ volume = {46}
+}
+
+",wang2005sensor
+Smart building creation in large scale HVAC environments through automated fault detection and diagnosis,"@article{dey2020smart,
+ abstract = {Modernization and retrofitting of older buildings has created a drive to install Building Energy Management Systems (BEMS) that can assist building managers in paving the way for smarter energy use and indirectly, using appropriate methods, occupant comfort understanding. BEMS may discover problems that can inform managers of building maintenance and energy wastage issues and in-directly, via repetitive data patterns appreciate user comfort requirements. The main focus of this paper is to describe a method},
+ author = {Dey, Maitreyee and Rana, Soumya Prakash and Dudley, Sandra},
+ journal = {Future Generation Computer Systems},
+ pages = {950--966},
+ pub_year = {2020},
+ publisher = {Elsevier},
+ title = {Smart building creation in large scale HVAC environments through automated fault detection and diagnosis},
+ venue = {Future Generation Computer Systems},
+ volume = {108}
+}
+
+",dey2020smart
+Superheat Prediction & Fault Diagnostics of HVAC from Simple Temperature Measurements Using Big Data Approach,"@article{tesfay2021superheat,
+ abstract = {New advancements in data & algorithms have pushed new techniques and methods to the forefront in optimizing energy efficiency as well as keeping the thermal comfort of residents in intelligent buildings research. HVAC elements, being ubiquitous and fundamental elements in buildings today, their diagnostics maintenance, operational functionalities, and control are essential aspects in this regard. The tremendous amount of data generated from buildings every day and recent developments with data science tools have changed the},
+ author = {Tesfay, Mehari and Alsaleem, Fadi and Sinkar, Kevin and Arunasalam, Parthiban},
+ pub_year = {2021},
+ title = {Superheat Prediction \& Fault Diagnostics of HVAC from Simple Temperature Measurements Using Big Data Approach},
+ venue = {NA}
+}
+
+",tesfay2021superheat
+Transfer learning-based strategies for fault diagnosis in building energy systems,"@article{liu2021transfer,
+ abstract = {Data-driven fault detection and diagnosis (FDD) in building energy systems is typically limited by the quantity and quality of training data. These methods can be only used for individual systems due to the insufficient extrapolation capabilities of most machine learning algorithms. A desirable solution is to utilize transfer learning, which can transfer the knowledge learned from data-rich building energy systems to FDD tasks in data-sparse systems. However, the potential of applying transfer learning to such FDD has not been},
+ author = {Liu, Jiangyan and Zhang, Qing and Li, Xin and Li, Guannan and Liu, Zhongming and Xie, Yi and Li, Kuining and Liu, Bin},
+ journal = {Energy and Buildings},
+ pages = {111256},
+ pub_year = {2021},
+ publisher = {Elsevier},
+ title = {Transfer learning-based strategies for fault diagnosis in building energy systems},
+ venue = {Energy and Buildings},
+ volume = {250}
+}
+
+",liu2021transfer
+Unsupervised learning for fault detection and diagnosis of air handling units,"@article{yan2020unsupervised,
+ abstract = {Supervised learning techniques have witnessed significant successes in fault detection and diagnosis (FDD) for heating ventilation and air-conditioning (HVAC) systems. Despite the good performance, these techniques heavily rely on balanced datasets that contain a large amount of both faulty and normal data points. In real-world scenarios, however, it is often very challenging to collect a sufficient amount of faulty training samples that are necessary for building a balanced training dataset. In this paper, we introduce a framework that utilizes},
+ author = {Yan, Ke and Huang, Jing and Shen, Wen and Ji, Zhiwei},
+ journal = {Energy and Buildings},
+ pages = {109689},
+ pub_year = {2020},
+ publisher = {Elsevier},
+ title = {Unsupervised learning for fault detection and diagnosis of air handling units},
+ venue = {Energy and Buildings},
+ volume = {210}
+}
+
+",yan2020unsupervised
